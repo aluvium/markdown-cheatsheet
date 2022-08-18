@@ -2,6 +2,6 @@
     
 < Short  brief info, description. >
 
-Markup: ---------------
-
 ## Idea ##
+
+## Contributors ##
