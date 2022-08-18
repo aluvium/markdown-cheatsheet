@@ -1,7 +1,7 @@
 ## Title about a Project ##
     
-    < Short  brief info, description. >
+< Short  brief info, description. >
 
-    Markup: ---------------
+Markup: ---------------
 
 ## Idea ##
