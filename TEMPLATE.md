@@ -1,4 +1,4 @@
-## Title about a Project ##
+## Title of the Project ##
     
 < Short  brief info, description. >
 
