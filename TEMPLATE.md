@@ -1,7 +1,13 @@
 ## Title of the Project ##
     
-< Short  brief info, description. >
+< Short  brief info >
 
-## Idea ##
+## The Idea ##
+
+## The features and benefits of the project ##
+
+## How users can start with ##
+
+## Where gets help about project
 
 ## Contributors ##
