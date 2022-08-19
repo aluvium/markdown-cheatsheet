@@ -3,8 +3,8 @@
 <Short  brief info >
 
 ## The features and benefits of the project ##
-   <Idea>
-   <How it works>
+     <Idea>
+     <How it works>
    
 ## How users can start with ##
 
