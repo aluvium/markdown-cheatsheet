@@ -1,5 +1,4 @@
-## Title of the Project ##
-    
+# Title of the Project #   
 < Short  brief info >
 
 ## The Idea ##
