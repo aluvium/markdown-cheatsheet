@@ -1,6 +1,6 @@
 # Title of the Project #   
 
-<Short  brief info >
+Short  brief info
 
 ## The features and benefits of the project ##
      <Idea>
