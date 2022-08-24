@@ -6,7 +6,7 @@ Short  brief info
  Idea
  How it works :smile:
 ## How users can start with ##
- Code
+    Code
 ## Where gets help about project
 
 ## Contributors ##
